@@ -1,0 +1,22 @@
+Name: Bob Sharma
+Email: bob.sharma@email.com
+Phone: +1-555-0102
+
+SUMMARY
+Frontend developer with 3 years of experience in React and JavaScript. Interested in transitioning into data science.
+
+SKILLS
+JavaScript, React, HTML, CSS, Node.js, Python (basic), SQL, Git, Figma
+
+EXPERIENCE
+Frontend Developer | WebStudio | 2022 - Present
+- Built responsive web applications using React and TypeScript
+- Integrated REST APIs and managed state using Redux
+- Improved page load performance by 40%
+
+Junior Developer | StartupXYZ | 2021 - 2022
+- Developed UI components and landing pages
+
+EDUCATION
+B.Sc in Information Technology | Pune University | 2021
+GPA: 7.2/10

@@ -1,0 +1,27 @@
+Name: Priya Patel
+Email: priya.patel@email.com
+Phone: +1-555-0103
+
+SUMMARY
+Machine Learning Engineer with 2 years of experience. Strong background in NLP, deep learning, and Python programming.
+
+SKILLS
+Python, NLP, spaCy, NLTK, TensorFlow, PyTorch, scikit-learn, SQL, MongoDB, Docker, FastAPI, Transformers, BERT, Git
+
+EXPERIENCE
+ML Engineer | AI Innovations Pvt. Ltd. | 2023 - Present
+- Designed and deployed NLP-based text classification models
+- Fine-tuned BERT models for named entity recognition tasks
+- Built data pipelines for preprocessing large text corpora
+
+Research Intern | CDAC | 2022
+- Implemented TF-IDF and cosine similarity for document retrieval
+- Published research on sentiment analysis using deep learning
+
+EDUCATION
+M.Tech in AI & ML | NIT Warangal | 2023
+GPA: 9.1/10
+
+CERTIFICATIONS
+- DeepLearning.AI NLP Specialization
+- TensorFlow Developer Certificate

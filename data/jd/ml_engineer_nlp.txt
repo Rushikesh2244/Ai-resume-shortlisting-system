@@ -1,0 +1,33 @@
+Job Title: Machine Learning Engineer - NLP Specialist
+
+Company: IntelliHire AI Solutions
+Location: Remote / Pune, India
+
+JOB DESCRIPTION
+We are looking for a talented Machine Learning Engineer with expertise in Natural Language Processing to join our growing AI team.
+
+RESPONSIBILITIES
+- Design, develop, and deploy NLP models for text classification and information extraction
+- Implement named entity recognition (NER) and text similarity algorithms
+- Build and maintain ML pipelines using Python and scikit-learn
+- Work with large text datasets and apply TF-IDF, cosine similarity, and transformer-based models
+- Collaborate with the product team to integrate AI features into production systems
+- Write clean, well-documented Python code
+
+REQUIRED SKILLS
+- Strong Python programming skills
+- Machine Learning and NLP expertise
+- Experience with scikit-learn, spaCy, or NLTK
+- Knowledge of TF-IDF and cosine similarity
+- SQL and data manipulation skills
+- Docker and API development (Flask/FastAPI)
+- Git version control
+
+PREFERRED SKILLS
+- Experience with BERT, Transformers, or deep learning frameworks (TensorFlow/PyTorch)
+- Knowledge of Named Entity Recognition (NER)
+- Cloud platform experience (AWS or Azure)
+
+QUALIFICATIONS
+- Bachelor's or Master's degree in Computer Science, AI, or related field
+- 2+ years of experience in ML/NLP roles

@@ -1,0 +1,23 @@
+Name: Rahul Verma
+Email: rahul.verma@email.com
+Phone: +1-555-0104
+
+SUMMARY
+Data Engineer with 5 years of experience in building data pipelines, ETL processes, and cloud infrastructure.
+
+SKILLS
+Python, SQL, Apache Spark, Hadoop, AWS, Azure, Airflow, Kafka, PostgreSQL, MongoDB, Docker, Kubernetes, Scala
+
+EXPERIENCE
+Senior Data Engineer | CloudTech Solutions | 2021 - Present
+- Designed and maintained large-scale ETL pipelines using Apache Spark
+- Managed data warehouse on AWS Redshift
+- Built real-time streaming solutions using Apache Kafka
+
+Data Engineer | Analytics Corp | 2019 - 2021
+- Developed batch processing jobs using Python and SQL
+- Optimized database queries improving performance by 60%
+
+EDUCATION
+B.E. in Computer Engineering | VJTI Mumbai | 2019
+GPA: 8.0/10

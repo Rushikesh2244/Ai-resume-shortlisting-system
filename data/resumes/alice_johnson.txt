@@ -1,0 +1,27 @@
+Name: Alice Johnson
+Email: alice.johnson@email.com
+Phone: +1-555-0101
+
+SUMMARY
+Experienced Python developer with 4 years of expertise in machine learning, data science, and NLP. Passionate about building scalable AI solutions.
+
+SKILLS
+Python, Machine Learning, NLP, TensorFlow, scikit-learn, pandas, NumPy, SQL, Docker, Git, REST APIs, Flask, Deep Learning
+
+EXPERIENCE
+Senior Data Scientist | TechCorp Inc. | 2021 - Present
+- Built NLP pipelines for text classification achieving 92% accuracy
+- Developed recommendation systems using collaborative filtering
+- Deployed ML models to production using Docker and Flask
+
+Data Analyst | DataSolutions Ltd. | 2020 - 2021
+- Analyzed large datasets using pandas and SQL
+- Created dashboards and automated reporting
+
+EDUCATION
+B.Tech in Computer Science | IIT Delhi | 2020
+GPA: 8.7/10
+
+CERTIFICATIONS
+- Google Professional ML Engineer
+- AWS Certified Data Analytics
